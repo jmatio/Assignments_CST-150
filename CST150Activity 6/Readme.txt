@@ -1,0 +1,1 @@
+Added exception handling by placing calculation code into a "Try" statement and used "Catch" for FormatException to determine if user is entering a valid number and not another character or letter.
