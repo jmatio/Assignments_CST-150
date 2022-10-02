@@ -1,5 +1,0 @@
-Lowercase Output: arizona washington california oregon mississippi
-First Alphabetical Word: Arizona
-Last Alphabetical Word: Washington
-Longest Word: Mississippi
-Word with Most Vowels: California
