@@ -1,0 +1,15 @@
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\bin\Debug\net6.0\debugging workspace.exe
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\bin\Debug\net6.0\debugging workspace.deps.json
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\bin\Debug\net6.0\debugging workspace.runtimeconfig.json
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\bin\Debug\net6.0\debugging workspace.dll
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\bin\Debug\net6.0\debugging workspace.pdb
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.csproj.AssemblyReference.cache
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.AssemblyInfoInputs.cache
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.AssemblyInfo.cs
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.csproj.CoreCompileInputs.cache
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.dll
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\refint\debugging workspace.dll
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.pdb
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\debugging workspace.genruntimeconfig.cache
+C:\Users\Justin\source\repos\Milestone2\Milestone2\debugging workspace\obj\Debug\net6.0\ref\debugging workspace.dll

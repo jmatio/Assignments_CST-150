@@ -1,0 +1,11 @@
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\bin\Debug\Milestone2.exe.config
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\bin\Debug\Milestone2.exe
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\bin\Debug\Milestone2.pdb
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone5.csproj.AssemblyReference.cache
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone4.Form1.resources
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone2.Properties.Resources.resources
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone5.csproj.GenerateResource.cache
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone5.csproj.CoreCompileInputs.cache
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone2.exe
+C:\Users\Justin\Desktop\CST150 Milestone 5\Milestone5\obj\Debug\Milestone2.pdb
